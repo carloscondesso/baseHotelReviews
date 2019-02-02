@@ -2,6 +2,5 @@
 applications:
 - name: cc-hotel-reviews
   host: cc-hotel-reviews
-  domain: mybluemix.net
   instances: 1
   memory: 256M
